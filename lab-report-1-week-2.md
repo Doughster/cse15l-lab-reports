@@ -182,6 +182,6 @@ $ scp C:\Users\jeffr/.ssh/id_ed25519.pub cs15lwi22@ieng6.ucsd.edu:~/.ssh/authori
 ![image](https://user-images.githubusercontent.com/97646041/149597137-11799ff5-84a2-4b51-9dc2-939bc7f22130.png)
 
 
-- Also, you can gett the last command that was ran on your terminal by pressing the up-arrow on your keyboard. 
+- Also, you can get the last command that was ran on your terminal by pressing the up-arrow on your keyboard. 
 
 **Overall, many establishments and CS courses employ the usage of course-specific accounts, so learning how to use it to your advantage will be optimal for you and your future jobs.**
