@@ -35,9 +35,9 @@ which can be searched up by following the instructions on this website: [CSE 15L
 - There are several commands that you will be implementing in this course. 
 - Here are some important ones:
 ---
- `pwd`
+`pwd`
  
- `mkdir`
+`mkdir`
 
 `cd ~`
 
@@ -45,7 +45,7 @@ which can be searched up by following the instructions on this website: [CSE 15L
 
 `cp`
 
- `ls`
+`ls`
 
 `ls -lat`
 
