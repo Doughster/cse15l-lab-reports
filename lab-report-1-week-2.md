@@ -184,4 +184,7 @@ $ scp C:\Users\jeffr/.ssh/id_ed25519.pub cs15lwi22@ieng6.ucsd.edu:~/.ssh/authori
 
 - Also, you can get the last command that was ran on your terminal by pressing the up-arrow on your keyboard. 
 
+## If you couldn't figure it out, here is how to do it! ##
+To save precious time, we can optimize the amount of time you spend putting inputs in the command line. First, you can copy all the commands that are needed, and then make a copy of the new file. Finally, we move it to the server and compile it. Therefore, we can make the total amount of keystrokes needed to run all of the commands in only **ten keystrokes** (pretty cool!). To do this neat and simple trick, you have to save the changes to the code that you made and then copy and paste the `ssh WhereAmI.java.` As of right now, we are at **eight keystrokes**, involving the `ENTER` key. After you do that, the last **two keystrokes** are prety straightfoward. The last **two keystrokes** simply involve pressing the `up arrow` key and the `ENTER` key to update the file on the remote server. So in total, only **ten keystrokes** are really needed to make a *local* edit to `WhereAmI.java`, and then copy that to the remote server and run the file. 
+
 **Overall, many establishments and CS courses employ the usage of course-specific accounts, so learning how to use it to your advantage will be optimal for you and your future jobs.**
