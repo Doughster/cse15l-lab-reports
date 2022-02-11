@@ -1,6 +1,6 @@
 # Group Choice Three - Copying Whole Directories With `scp -r` #
 
- ## Screenshot of copying the whole markdown-parse directory onto my ieng6 account ## 
+## Screenshot of copying the whole markdown-parse directory onto my ieng6 account ## 
 - I coped the whole markdown-parse directory by typing `$ scp -r . cs15lwi22@ieng6.ucsd.edu:~/markdown-parse` into the command line
 - The command `scp` is worked recursively by the command `-r `
 - The source is `.` and is the current directory
