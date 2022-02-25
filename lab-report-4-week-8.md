@@ -1,7 +1,7 @@
 # Lab Report Six #
-**My Markdown-parse Repository:** https://github.com/Doughster/markdown-parse
+**My Markdown-parse Repository:** [Repository](https://github.com/Doughster/markdown-parse)
 
-**Markdown-parse Repository I Reviewed:** https://github.com/TheZenMasterz/markdown-parse
+**Markdown-parse Repository I Reviewed:** [Repository](https://github.com/TheZenMasterz/markdown-parse)
 ## Snippet One ## 
 **This snippet used for this test:**
 
